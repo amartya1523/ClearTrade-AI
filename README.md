@@ -68,3 +68,18 @@ This leads to **financial losses, erosion of trust, and reduced participation** 
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
+
+---
+
+## 📖 Project Brief  
+
+**Clear Trade AI** is an **AI-powered investment advisor** built for Indian retail investors.  
+It helps users **avoid risky stocks, scams, and misinformation** by analyzing their profile, portfolio, and market data using **AI, ML, and NLP models**.  
+
+The platform:  
+- Flags **pump & dump schemes** and **misleading tips**.  
+- Provides **SEBI-compliant safe alternatives** (ETFs, mutual funds, diversified options).  
+- Delivers **personalized insights** through an AI chatbot and intuitive dashboard.  
+- Ensures **investor protection, market transparency, and trust**.  
+
+👉 With Clear Trade AI, retail investors can make **informed, safe, and transparent investment decisions**, aligned with **SEBI’s mandate**.  
