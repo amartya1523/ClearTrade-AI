@@ -4,6 +4,10 @@
 
 ---
 
+https://github.com/user-attachments/assets/339247d1-7a5d-4739-aa6a-8bb317a4d317
+
+
+
 ## 🌍 Problem Statement  
 Indian retail investors often:  
 - Follow **social media hype and unverified tips** → fall into **pump & dump scams**.  
